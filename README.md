@@ -1,8 +1,18 @@
-# Sample Hardhat Project
+Supply Chain Management DApp
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+Blockchain Supply chain management plays a critical role in ensuring efficient operations and maintaining consumer trust. This project focuses on developing and deploying a decentralized application (DApp) powered by blockchain technology to streamline supply chain management processes.
 
-Try running some of the following tasks:
+Utilizes:
+  NodeJs: v18.12.1
+  NPM: 8.19.2
+
+  Also set up with a web3 provider: Alchemy 
+  Network: Polygon Mumbai
+
+
+  Tested with Hardhat.
+
+It has a basic Hardhat use case. It comes with a supply chain contract, a test for that contract, and a script that deploys that contract while using Remix to check code functionality.
 
 ```shell
 npx hardhat help

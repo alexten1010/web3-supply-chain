@@ -20,8 +20,10 @@ export default ({ setCreateShipmentModel, allShipmentsdata }) => {
             Create Tracking
           </h3>
           <p className="text-gray-600 mt-2">
-            Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry.
+           Instantly unlock the power of on-chain transparency! 
+            Click the "Get Tracking" button to access a detailed view of your shipment's 
+            journey. See exactly where your goods are in the supply chain, with timestamps 
+            and verifiable data stored securely on the blockchain.
           </p>
         </div>
         <div className="mt-3 md:mt-0">

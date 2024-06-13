@@ -20,8 +20,11 @@ export default ({ setCreateShipmentModel, allShipmentsdata }) => {
             Create Tracking
           </h3>
           <p className="text-gray-600 mt-2">
-            Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry.
+            Gain real-time visibility into your shipment's journey. 
+            Simply enter your shipment ID or reference number and click the 
+            "Create Tracking Button" below. Our intuitive tracking system will 
+            provide you with detailed updates on the location and status
+            of your shipment,keeping you informed every step of the way.
           </p>
         </div>
         <div className="mt-3 md:mt-0">

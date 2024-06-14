@@ -1,6 +1,6 @@
 import shipCount from "./1.jpg";
 import getShipment from "./2.jpg";
-import shipmentcomp from "./3.jpg";
+import compshipment from "./3.jpg";
 import startShipment from "./4.jpg";
 import userProfile from "./5.jpg";
 import send from "./6.jpg";
